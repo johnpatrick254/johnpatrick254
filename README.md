@@ -3,7 +3,7 @@
 </p>
 
 
- - ✨  Software Engineer based in the Nairobi Kenya
+ - ✨  Software Engineer based in the Nairobi, Kenya
  - 📫  Former Research Biologist who pays high attention to details, numbers, and objectives requirements
  - 💬  Currently learning and practicing OOP and Typescript
 
