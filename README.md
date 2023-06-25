@@ -3,7 +3,7 @@
 </p>
 
 
- - ✨  Software Engineer based in the Nairobi, Kenya
+ - ✨  Software Engineer based in Nairobi, Kenya
  - 📫  Former Research Biologist who pays high attention to details, numbers, and objectives requirements
  - 💬  Currently learning and practicing OOP and Typescript
 
@@ -67,5 +67,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=johnpatrick254&icon=0&color=0)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=johnpatrick254&label=Profile%20Views&color=8&icon=0&pretty=true)](https://visitcount.itsvg.in)
