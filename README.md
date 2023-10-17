@@ -1,7 +1,7 @@
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=2000&width=600&height=100&lines=👋+Hello!+I+am+John+Patrick+👋"></img>
 </p>
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" width="300" height="250"></img>
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" width="300" height="200"></img>
 
 
 
