@@ -17,7 +17,7 @@
 <a href="mailto:jpattrick538@gmail.com" target="popup">
   <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/johnpatrick254/johnpatrick254">
+<a href="[https://github.com/johnpatrick254/johnpatrick254](https://johnpatrick.vercel.app/)">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
 </a>
 <br>
