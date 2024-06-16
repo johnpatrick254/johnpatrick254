@@ -7,7 +7,7 @@
 
  - ✨  Software Engineer based in Nairobi, Kenya
  - 📫  Former Research Biologist who pays high attention to detail and objectives requirements
- - 💬  Currently learning and practicing Docker and AWS
+ - 💬  Currently learning Machine Learning with Python
 
 ## 🌐 Connect with me:
 
