@@ -4,7 +4,9 @@
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/ef/16/e4/ef16e4e68b0d3cb81e6bb8a8c3258d7e.gif" width="300" height="200"></img>
 
 
-
+🎖️🎖️ Top Rated Freelancer on Upwork 🎖️🎖️ ➤ <a href="https://www.upwork.com/freelancers/~0191d5e40ed2821a6e" target="_blank">
+  👨🏻‍💼 Upwork Profile
+</a> 
  - ✨  Software Engineer based in Nairobi, Kenya
  - 📫  Former Research Biologist who pays high attention to detail and objectives requirements
  - 💬  Currently learning Machine Learning with Python
